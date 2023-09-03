@@ -1,4 +1,4 @@
-# Library-Management-System
+# Library Management System Project in PHP and MySQL
 
 This open-source Library Management System is designed to simplify and automate the day-to-day operations of a library. It provides librarians and library staff with powerful tools to manage and organize books, patrons, and library-related tasks efficiently.
 
